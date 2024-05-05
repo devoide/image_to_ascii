@@ -31,7 +31,7 @@ def convert_to_ascii(path):
             elif brightness < 765:
                 char = "z"
             else:
-                char = "€"
+                char = "~"
             f.write(char)
         f.write("\n")
     os.startfile('ascii.txt')
