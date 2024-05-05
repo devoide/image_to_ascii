@@ -5,7 +5,6 @@ import os
 
 def main():
     path = eg.fileopenbox(title='Select image', filetypes=[["*.png;*.jpg;*.jpeg;*.webp", "Image files"]])
-    print(path)
     convert_to_ascii(path)
 
 
