@@ -1,6 +1,6 @@
-# image_to_ascii Converter
+# image_to_ascii
 
-**image_to_ascii Converter** is a Python-based application that converts images into ASCII art, generating a text file representing the visual content of the image using ASCII characters. This tool is useful for creating text-based art from images, preserving the image's visual structure in a creative way.
+**image_to_ascii** is a Python-based application that converts images into ASCII art, generating a text file representing the visual content of the image using ASCII characters. This tool is useful for creating text-based art from images, preserving the image's visual structure in a creative way.
 
 ## Features
 
